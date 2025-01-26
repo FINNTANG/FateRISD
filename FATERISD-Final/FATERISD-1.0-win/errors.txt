@@ -1,0 +1,42 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 8: expected 'word' not found.
+    style.default.font = "fonts/CrimsonText-Regular.ttf"  
+         ^
+
+File "game/script.rpy", line 9: expected 'word' not found.
+    style.default.bold_font = "fonts/CrimsonText-Bold.ttf"  
+         ^
+
+File "game/script.rpy", line 10: expected 'word' not found.
+    style.default.italic_font = "fonts/CrimsonText-Italic.ttf"  
+         ^
+
+File "game/script.rpy", line 11: expected 'word' not found.
+    style.default.bold_italic_font = "fonts/CrimsonText-BoldItalic.ttf"  
+         ^
+
+File "game/script.rpy", line 14: expected 'word' not found.
+    style.default.language = "japanese"  
+         ^
+
+File "game/script.rpy", line 15: expected 'word' not found.
+    style.default.ruby_font = "fonts/NotoSansJP-Regular.ttf"  
+         ^
+
+File "game/script.rpy", line 16: expected 'word' not found.
+    style.default.bold_ruby_font = "fonts/NotoSansJP-Bold.ttf"  
+         ^
+
+File "game/script.rpy", line 19: expected 'word' not found.
+    style.default.size = 22
+         ^
+
+File "game/script.rpy", line 20: expected 'word' not found.
+    style.default.ruby_size = 12  
+         ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Sun Jan 26 03:53:31 2025

@@ -1,0 +1,24 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/screens.rpy", line 1709, in script
+    old "自动存档"
+Exception: A translation for "自动存档" already exists at game/screens.rpy:1628.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/screens.rpy", line 1709, in script
+    old "自动存档"
+  File "C:\Users\finn\Desktop\FATERISD-Final\FATERISD-Final\FATERISD-1.0-win\renpy\ast.py", line 2646, in execute
+    renpy.translation.add_string_translation(self.language, self.old, self.new, newloc)
+  File "C:\Users\finn\Desktop\FATERISD-Final\FATERISD-Final\FATERISD-1.0-win\renpy\translation\__init__.py", line 594, in add_string_translation
+    stl.add(old, new, newloc)
+  File "C:\Users\finn\Desktop\FATERISD-Final\FATERISD-Final\FATERISD-1.0-win\renpy\translation\__init__.py", line 534, in add
+    raise Exception("A translation for \"{}\" already exists at {}:{}.".format(
+Exception: A translation for "自动存档" already exists at game/screens.rpy:1628.
+
+Windows-10-10.0.22631 AMD64
+Ren'Py 8.3.2.24090902
+FATE RISD 1.0
+Sun Jan 26 15:00:38 2025
